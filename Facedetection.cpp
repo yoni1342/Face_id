@@ -19,7 +19,7 @@ void Photo(Mat CropImg){
 int main(){
     double Scale = 2.0;
     CascadeClassifier faceCascade;
-    faceCascade.load("opencv\\sources\\data\\haarcascades\\haarcascade_frontalface_alt.xml");
+    faceCascade.load("haarcascades\\haarcascade_frontalface_alt.xml");
     VideoCapture cap(0);
     if(!cap.isOpened()){
         return -1;
