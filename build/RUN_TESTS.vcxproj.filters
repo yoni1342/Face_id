@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yonat\Desktop\open\Face id\Face_id\build\CMakeFiles\2c130f9793a3f46ca4411884d73dae4d\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5D80FB83-B2BC-384C-8404-8E22EAB5883D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

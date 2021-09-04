@@ -1,0 +1,10 @@
+^C:\USERS\YONAT\DESKTOP\OPEN\FACE ID\FACE_ID\BUILD\CMAKEFILES\2C130F9793A3F46CA4411884D73DAE4D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/yonat/Desktop/open/Face id/Face_id" "-BC:/Users/yonat/Desktop/open/Face id/Face_id/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/yonat/Desktop/open/Face id/Face_id/build/open.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

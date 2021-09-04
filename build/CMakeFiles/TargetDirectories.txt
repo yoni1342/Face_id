@@ -1,0 +1,9 @@
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/Experimental.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/Continuous.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/Nightly.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/open.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/PACKAGE.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yonat/Desktop/open/Face id/Face_id/build/CMakeFiles/ZERO_CHECK.dir
